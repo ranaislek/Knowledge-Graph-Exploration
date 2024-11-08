@@ -1,4 +1,11 @@
 # Twelfth European Big Data Management & Analytics Summer School (eBISS 2024)
+
+<div align="center">
+    <img src="https://web.math.unipd.it/eBISS24/files/ebiss_2024_logo.png" alt="eBISS Logo" width="300"/>
+</div>
+
+<br>
+
 You can find more information about eBISS thorugh this [link](https://web.math.unipd.it/eBISS24/program.html).
 
 ## Team
