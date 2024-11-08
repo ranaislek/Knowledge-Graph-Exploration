@@ -1,4 +1,5 @@
 # Twelfth European Big Data Management & Analytics Summer School (eBISS 2024)
+You can find more information about eBISS thorugh this link[https://web.math.unipd.it/eBISS24/program.html].
 
 ## Knowledge Graph Exploration
 ### Abstract
