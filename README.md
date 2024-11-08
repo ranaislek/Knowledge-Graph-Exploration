@@ -1,6 +1,14 @@
 # Twelfth European Big Data Management & Analytics Summer School (eBISS 2024)
 You can find more information about eBISS thorugh this [link](https://web.math.unipd.it/eBISS24/program.html).
 
+## Team
+- **Rana İşlek**  
+  Student, BDMA  
+  
+- **Berat Furkan Koçak**  
+  Student, BDMA  
+
+
 ## Knowledge Graph Exploration
 ### Abstract
 Knowledge Graphs (KGs) are structured representations of information, enabling intelligent applications such as data analytics and recommender systems. This report presents a comprehensive review of state-of-the-art methods in Knowledge Graph Exploration, addressing key tasks, challenges, and recent advancements. We explore various approaches including summarization, profiling, exploratory data analytics, exploratory search and recommendation systems, drawing from the latest literature. By identifying common themes and contrasting techniques, this report highlights solutions to improve the accessibility and effectiveness of KG exploration for both expert and non-expert users.
